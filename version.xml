@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-    <Version>37.3</Version>
-    <Notes>Big update and correction for AKO Custom. In our Brand new Version of AKO, AKO 6, With a new module called "AKO Terrain". This version fixes a problem with the remote feature for remote DBs</Notes>
+    <Version>39.4</Version>
+    <Notes>NEW Intersite module and Peru Claro NQI Update in this AKO 6 new build, Adaptation of new API in "AKO Terrain". This version fixes a problem with the remote feature for remote DBs</Notes>
 </VersionInfo>
