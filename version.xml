@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-    <Version>40.1</Version>
+    <Version>40.4</Version>
     <Notes>Adaptation of new API in "AKO Terrain", "AKO Insersite" and "AKO TA". This version implement some features and new modules</Notes>
 </VersionInfo>
