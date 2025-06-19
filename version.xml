@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-    <Version>40.5</Version>
-    <Notes>Adaptation of new API in "AKO Terrain", "AKO Insersite" and "AKO TA". This version implement some features and new modules</Notes>
+    <Version>40.6</Version>
+    <Notes>Adaptation of new API in "AKO Terrain", "AKO Insersite" and "AKO TA". This version adds a new group to Peru Claro NQI output with the "Network" option</Notes>
 </VersionInfo>
