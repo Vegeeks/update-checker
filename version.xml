@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
     <Version>40.6</Version>
-    <Notes>Adaptation of new API in "AKO Terrain", "AKO Insersite" and "AKO TA". This version adds a new group to Peru Claro NQI output with the "Network" option</Notes>
+    <Notes>Adaptation of new API in "AKO Terrain", "AKO Insersite" and "AKO TA". This version adds several fixes to AKO Custom Mexico KPI D135 Module</Notes>
 </VersionInfo>
