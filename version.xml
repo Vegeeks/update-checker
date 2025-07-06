@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-    <Version>45.2</Version>
-    <Notes>Adaptation of new API in "AKO Terrain", "AKO Insersite" and "AKO TA". This version changed entirely the AKO Custom Mexico KPI D135 Module and Weekly report. Also fixes several things in AKO Query, AKO Delete and AKO Unique</Notes>
+    <Version>45.5</Version>
+    <Notes>Adaptation of new API in "AKO Terrain", "AKO Insersite" and "AKO TA". Hopefull the AKO Custom Mexico KPI D135 Module and Weekly final version.</Notes>
 </VersionInfo>
